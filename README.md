@@ -50,9 +50,14 @@ Have a github account and fork the project and edit config.json and add the bot 
 
 6. Run the Node.js application, passing a specific phone number you want to use and get the login code:
     ```
-    node index.js
+    node index.js --pairing
     ```
-
+    
+7. Make sure to copy past ur phone numebr 
+    ```
+    2737465374
+    ```
+    
 ## 🤩 Support
 
 SUPPORT GROUP: <a href="https://pay.yoco.com/ShopZa"><img alt="Yoco" src="https://a.storyblok.com/f/111633/600x120/efd2e37265/payment-strip.svg"/></a>
