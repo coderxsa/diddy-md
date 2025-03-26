@@ -1,0 +1,16 @@
+{
+  "ownerNumber": [
+    "27717311486"
+  ],
+  "readme": "Fill in the ownerNumber number according to how many numbers you have, you can also add more numbers, don't forget the comma must be correct so there is no error, install the module using npm i on the panel/vps or yarn on termux",
+  "contact": "27717311486",
+  "botName": "نيت هيجرز💕",
+  "ownerName": "CODERXSA",
+  "footer": "© coderxsa",
+  "sosmed": "https://diddy_party",
+  "thumbnail": "https://i.ibb.co/Y4L8vqzs/termux-bot.jpg",
+  "music": "https://files.catbox.moe/sk0u2k.mp3",
+  "ram": 950,
+  "readme2": "botNumber is the number you want to use as a bot",
+  "botNumber": "27663746228"
+}

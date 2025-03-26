@@ -1,0 +1,14 @@
+{
+   "wait": "🕒 WAIT || Wait a minute...",
+   "register": "Hey, you haven't registered yet. To use this feature, please register first. Type .daftar name.age\nExample .daftar name 1999.24",
+   "limit": "*❗Your limit has run out, you can't use this feature*\n*To add a limit, please type*\n*.claim (for daily claims)*\n*.hour (for hourly claims)*\n*.claimkupon (for coupon claims)*\n*.claimuang (for money claims)*\n*.buylimit amount (to buy limits)*\n*example .buylimit 10*\n*or to get lots of limits, play bot games. see what games are available, type*\n*.game menu*\n*or you can buy lots of limits from the owner, type .owner*",
+   "banned": "*❌ You have been banned and can't use Bot*\n*Please Confirm to Owner*\n*Reason for Banning:*\n",
+   "disable": "‍🐽 Feature Has Been Disabled by Owner\nChat Owner to Turn It On\nType .owner",
+   "OnlyGroup": "❗This command can only be used in groups",
+   "OnlyPM": "❗This command can only be used in private messages",
+   "GrupAdmin": "❗This command can only be used by Group Admins",
+   "OnlyOwner": "❗This command can only be used by bot owners",
+   "BotAdmin": "❗Make me an admin to be able to use this command",
+   "premium": "❗This command is specifically for premium members, contact the owner",
+   "groupOnly": "❗Because Your Number Is Not Premium, Use It Only in Groups Or Buy Premium From the Owner To Get Access Here\nwa.me/%contact"
+   }
