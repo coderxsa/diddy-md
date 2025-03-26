@@ -20,7 +20,7 @@ DIDDY-MB - Simple Multi Device whatsapp bot - TERMUX.
 Have a github account and fork the project and edit config.json and add the bot phone numebr u want.
 1. Fork the repo
     <br>
-<a href='https://github.com/coderxsa/nebula/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/coderxsa/diddy-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 1. Update and upgrade your system packages to ensure everything is up to date:
