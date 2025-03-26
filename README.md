@@ -50,12 +50,7 @@ Have a github account and fork the project and edit config.json and add the bot 
 
 6. Run the Node.js application, passing a specific phone number you want to use and get the login code:
     ```
-    node index.js --pairing
-    ```
-    
-7. Make sure to copy past ur phone numebr 
-    ```
-    2737465374
+    node index.js
     ```
     
 ## 🤩 Support
