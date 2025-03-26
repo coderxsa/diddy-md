@@ -17,7 +17,7 @@
 DIDDY-MB - Simple Multi Device whatsapp bot - TERMUX.
 
 #### SETUP
-Have a github account and fort the project and edit config.json and add the bot phone numebr u want.
+Have a github account and fork the project and edit config.json and add the bot phone numebr u want.
 
 
 1. Update and upgrade your system packages to ensure everything is up to date:
