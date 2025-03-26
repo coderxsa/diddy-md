@@ -35,7 +35,7 @@ Have a github account and fork the project and edit config.json and add the bot 
 
 3. Clone the GitHub repository into your local machine:
     ```
-    git clone https://github.com/coderxsa/diddy-md.git
+    git clone https://github.com/add_ur_github_name_here/diddy-md.git
     ```
 
 4. Change into the directory of the cloned repository:
