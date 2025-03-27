@@ -39,7 +39,7 @@ DIDDY-MB - Simple Multi Device whatsapp bot - TERMUX.
     ```
 5. Edit Config.json:
     ```
-    nano config.js
+    nano config.json
     ```
 
 5. Install the necessary dependencies for the project defined in `package.json`:
