@@ -16,12 +16,45 @@
 ####  
 DIDDY-MB - Simple Multi Device whatsapp bot - TERMUX.
 
-#### SETUP
+#### SETUP - Option 1
 Have a github account and fork the project and edit config.json and add the bot phone numebr u want.
 1. Fork the repo
     <br>
 <a href='https://github.com/coderxsa/diddy-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
+
+1. Update and upgrade your system packages to ensure everything is up to date:
+    ```
+    pkg update -y && pkg upgrade -y
+    ```
+
+2. Install Node.js (JavaScript runtime) and Git (version control system):
+    ```
+    pkg install -y nodejs git ffmpeg imagemagick
+    ```
+
+3. Clone the GitHub repository into your local machine:
+    ```
+    git clone https://github.com/your_github_name/diddy-md.git
+    ```
+
+4. Change into the directory of the cloned repository:
+    ```
+    cd diddy-md
+    ```
+
+5. Install the necessary dependencies for the project defined in `package.json`:
+    ```
+    npm install
+    ```
+
+6. Run the Node.js application, passing a specific phone number you want to use and get the login code:
+    ```
+    node index.js
+    ```
+
+
+#### SETUP - Option 2
 
 1. Update and upgrade your system packages to ensure everything is up to date:
     ```
@@ -42,6 +75,10 @@ Have a github account and fork the project and edit config.json and add the bot 
     ```
     cd diddy-md
     ```
+5. Edit Config.json:
+    ```
+    nano config.js
+    ```
 
 5. Install the necessary dependencies for the project defined in `package.json`:
     ```
@@ -52,7 +89,6 @@ Have a github account and fork the project and edit config.json and add the bot 
     ```
     node index.js
     ```
-    
 ## 🤩 Support
 
 SUPPORT GROUP: <a href="https://pay.yoco.com/ShopZa"><img alt="Yoco" src="https://a.storyblok.com/f/111633/600x120/efd2e37265/payment-strip.svg"/></a>
