@@ -19,7 +19,7 @@ Object.assign(global, {
    Connect: Connect, Format: Format
 });
 require('./lib/settings.js');
-require('utils-mf/index.js');
+require('utils-cz/index.js');
 require('./lib/system.js');
 require('./lib/src/mongo/mongo-info.js');
 const { caller } = require('./lib/system.js');
