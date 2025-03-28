@@ -10,7 +10,7 @@ const {
    useMultiFileAuthState,
    DisconnectReason
 } = require('@adiwajshing/baileys');
-const { Format, Connect, signalGroup } = require('utils-cz'); 
+const { Format, Connect, signalGroup } = require('utils-mf'); 
 const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' })});
 Object.assign(global, {   
    default_db: { users: {}, chats: {}, settings: {}, stores: {}, menfess: {} },   
@@ -19,7 +19,7 @@ Object.assign(global, {
    Connect: Connect, Format: Format
 });
 require('./lib/settings.js');
-require('utils-cz/index.js');
+require('utils-mf/index.js');
 require('./lib/system.js');
 require('./lib/src/mongo/mongo-info.js');
 const { caller } = require('./lib/system.js');
