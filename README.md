@@ -16,7 +16,7 @@
 ####  
 DIDDY-MB - Simple Multi Device whatsapp bot - TERMUX.
 
-#### SETUP - Option 1
+#### SETUP - Termux
 
 1. Update and upgrade your system packages to ensure everything is up to date:
     ```
@@ -51,6 +51,18 @@ DIDDY-MB - Simple Multi Device whatsapp bot - TERMUX.
     ```
     node index.js
     ```
+
+#### DEPLOY TO Replit (This shit also Going paid) FREE option
+
+1. If You don't have an account in Replit. Create an account.
+    <br>
+<p align="center"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/replit%20Account-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+
+2. Now Deploy
+    <br>
+<p align="center"><a href="https://repl.it/github/coderxsa/diddy-md.git"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+
+
 ## 🤩 Support
 
 SUPPORT GROUP: <a href="https://pay.yoco.com/ShopZa"><img alt="Yoco" src="https://a.storyblok.com/f/111633/600x120/efd2e37265/payment-strip.svg"/></a>
