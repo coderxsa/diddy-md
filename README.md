@@ -63,6 +63,37 @@ DIDDY-MB - Simple Multi Device whatsapp bot - TERMUX.
 <p align="center"><a href="https://repl.it/github/coderxsa/diddy-md.git"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 
+ 
+#### PC Installation - Free Lifetime  
+
+Follow these steps to install and run the bot on your PC:  
+
+#### 1. Download and Setup  
+1. **Download** the necessary files.  
+2. **Extract** the files and open the `diddy-md` folder.  
+
+#### 2. Install Requirements  
+
+3. **Ensure Node.js is installed.** If not, download and install it from [nodejs.org](https://nodejs.org/).  
+4. **Open Command Prompt** and navigate to the `diddy-md` folder:  
+   ```sh
+   cmd
+   ```  
+5. **Install dependencies** by running:  
+   ```sh
+   npm install
+   ```  
+
+#### 3. Configure the Bot  
+6. **Edit** the `config.json` file and enter your phone number.  
+
+#### 4. Run the Bot  
+7. **Start the bot** with the following command:  
+   ```sh
+   node index.js
+   ```  
+
+
 ## 🤩 Support
 
 SUPPORT GROUP: <a href="https://pay.yoco.com/ShopZa"><img alt="Yoco" src="https://a.storyblok.com/f/111633/600x120/efd2e37265/payment-strip.svg"/></a>
