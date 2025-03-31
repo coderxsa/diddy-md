@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://www.youtube.com/@coderxsa">
     <img alt="diddy" height="300" src="https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/NEBULA-BOT/pic/bot_image.jpg">
-    <h1 align="center">DIDDY-MD | 1.9.0</h1>
+    <h1 align="center">DIDDY-MD | 1.0.0</h1>
   </a>
 </p>
 <p align="center">
